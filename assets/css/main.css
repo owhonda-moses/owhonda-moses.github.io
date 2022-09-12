@@ -2691,7 +2691,7 @@ input, select, textarea {
 		#main > section {
 			border-top: solid 2px #efefef;
 			margin: 3em 0 0 0;
-			padding: 3em 0 0 0;
+			padding: 4em 0 0 0;
 		}
 
 			#main > section:first-child {
@@ -3091,11 +3091,11 @@ input, select, textarea {
 			}
 
 				#footer .icons {
-					margin: 0 0 1em 0;
+					margin: 0 0 0em 0;
 				}
 
 				#footer .copyright {
-					margin: 0 0 1em 0;
+					margin: 0 0 0em 0;
 				}
 
 					#footer .copyright li {
